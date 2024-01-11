@@ -23,7 +23,7 @@
 ### 🧗‍♂️: About Me :
 - :telescope: I am a Data Analyst who enjoys creating and providing data-driven decisions to ensure maximum accuracy
 
-- :seedling: Exploring the vas sea of DATA.
+- :seedling: Exploring the vast sea of DATA.
 
 - :zap: In my free time, I read about science and play videogames.
 
